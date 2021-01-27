@@ -878,7 +878,7 @@ Examples:
 
 #### Custom Widget Gem
 
-To scaffold a Glimmer custom widget gem (part of a view distributed as a Ruby gem), run the following command:
+To scaffold a Glimmer [custom widget](#custom-widgets) gem (part of a view distributed as a Ruby gem), run the following command:
 
 ```
 glimmer scaffold:gem:customwidget[name,namespace]
@@ -1098,9 +1098,12 @@ bin/girb
 
 Watch out for hands-on examples in this README indicated by "you may copy/paste in [`girb`](#girb-glimmer-irb-command)"
 
-Keep in mind that all samples live under [https://github.com/AndyObtiva/glimmer-dsl-swt](https://github.com/AndyObtiva/glimmer-dsl-swt)
+Keep in mind that all samples live under [https://github.com/AndyObtiva/glimmer-dsl-swt/samples](https://github.com/AndyObtiva/glimmer-dsl-swt/samples)
 
-If you need a more GUI interactive option to experiement with Glimmer GUI DSL Syntax, you may try the ["Ugliest Editor Ever"](https://github.com/AndyObtiva/glimmer-cs-gladiator) or just build your own using the [Glimmer DSL for SWT Ruby Gem](https://rubygems.org/gems/glimmer-dsl-swt).
+If you need a more GUI interactive option to experiement with Glimmer GUI DSL Syntax, you may try:
+- [Glimmer Meta-Sample (The Sample of Samples)](#samples): allows launching Glimmer samples and viewing/editing their code before launching too.
+- ["Ugliest Editor Ever"](https://github.com/AndyObtiva/glimmer-cs-gladiator)
+- Just build your own GUI editor using the [Glimmer DSL for SWT Ruby Gem](https://rubygems.org/gems/glimmer-dsl-swt).
 
 ## Glimmer GUI DSL Syntax
 
