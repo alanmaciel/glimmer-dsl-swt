@@ -241,6 +241,7 @@ If you see anything that needs to be improved, please do not hesitate to contact
     - [Desktop Apps Built with Glimmer DSL for SWT](#desktop-apps-built-with-glimmer-dsl-for-swt)
   - [Table of contents](#table-of-contents)
   - [Background](#background)
+  - [Software Architecture](#software-architecture)
   - [Platform Support](#platform-support)
   - [Pre-requisites](#pre-requisites)
   - [Setup](#setup)
