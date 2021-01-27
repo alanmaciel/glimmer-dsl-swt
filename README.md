@@ -422,7 +422,7 @@ There are several requirements for building enterprise-level/consumer-level desk
 - Arbitrary Graphics Painting
 - Audio Support
 
-Glimmer provides cross-platform support that does not require Ruby compilation (like [Tk](https://tkdocs.com/tutorial/install.html) does) via JRuby, a JVM (Java Virtual Machine) faster OS-threaded version of Ruby.
+Glimmer provides cross-platform support that does not require Ruby compilation (like Tk does), thanks to JRuby, a JVM (Java Virtual Machine) faster OS-threaded version of Ruby.
 
 Glimmer leverages SWT (Standard Widget Toolkit), which provides cross-platform widgets that automatically use the native GUI libraries under each operating system, such as Win32 on Windows, Cocoa on Mac, and GTK on Linux. 
 
